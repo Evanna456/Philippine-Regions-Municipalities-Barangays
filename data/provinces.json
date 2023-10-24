@@ -1,0 +1,116 @@
+{
+"Region I": [
+ "Ilocos Sur",
+ "Pangasinan",
+ "Ilocos Norte",
+ "La Union"
+],
+"Region II": [
+ "Cagayan",
+ "Batanes",
+ "Nueva Vizcaya",
+ "Isabela",
+ "Quirino"
+],
+"Region III": [
+ "Pampanga",
+ "Zambales",
+ "Bulacan",
+ "Bataan",
+ "Nueva Ecija",
+ "Tarlac",
+ "Aurora"
+],
+"Region IV-A": [
+ "Laguna",
+ "Batangas",
+ "Cavite",
+ "Rizal",
+ "Quezon"
+],
+"Mimaropa": [
+ "Oriental Mindoro",
+ "Romblon",
+ "Palawan",
+ "Marinduque",
+ "Occidental Mindoro"
+],
+"Region V": [
+ "Albay",
+ "Camarines Sur",
+ "Sorsogon",
+ "Camarines Norte",
+ "Catanduanes"
+],
+"CAR": [
+ "Abra",
+ "Mountain Province",
+ "Benguet",
+ "Ifugao",
+ "Kalinga",
+ "Apayao"
+],
+"NCR": [
+ "Metro Manila"
+],
+"Region VI": [
+ "Iloilo",
+ "Negros Occidental",
+ "Antique",
+ "Capiz",
+ "Aklan",
+ "Guimaras"
+],
+"Region VII": [
+ "Cebu",
+ "Bohol",
+ "Negros Oriental",
+ "Siquijor"
+],
+"Region VIII": [
+ "Leyte",
+ "Samar",
+ "Southern Leyte",
+ "Eastern Samar",
+ "Northern Samar",
+ "Biliran"
+],
+"Region IX": [
+ "Zamboanga del Sur",
+ "Zamboanga del Norte",
+ "Zamboanga Sibugay"
+],
+"Region X": [
+ "Bukidnon",
+ "Misamis Occidental",
+ "Lanao del Norte",
+ "Camiguin"
+],
+"Region XI": [
+ "Davao del Sur",
+ "Davao del Norte",
+ "Davao Oriental",
+ "Davao de Oro",
+ "Davao Occidental"
+],
+"Region XII": [
+ "Cotabato",
+ "South Cotabato",
+ "Sultan Kudarat",
+ "Sarangani"
+],
+"Region XIII": [
+ "Surigao del Norte",
+ "Agusan del Norte",
+ "Surigao del Sur",
+ "Dinagat Islands"
+],
+"BARMM": [
+ "Lanao del Sur",
+ "Sulu",
+ "Tawi-Tawi",
+ "Maguindanao del Sur",
+ "Basilan",
+ "Maguindanao del Norte"
+]
+}
